@@ -16,6 +16,7 @@
 ###### 六级标题
 
 ***粗斜体qqqq阿斯顿***
+
 ___粗斜体asdas阿斯顿___
 
 按时大大
@@ -28,4 +29,4 @@ ___粗斜体asdas阿斯顿___
 [百度]（www.baidu.com）
 
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+这是一个图片 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
